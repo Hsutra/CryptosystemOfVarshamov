@@ -1,3 +1,4 @@
+#Криптосистема на основе кода Варшамова и обобщенного рюкзака
 import string
 import itertools
 import random
